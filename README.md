@@ -20,4 +20,4 @@ JP Math 0.1.0 (powered by Apache)
 
 The JP Math implements the XorShift1024* prng ([Vigna](http://arxiv.org/abs/1402.6246)) as an extension of [Apache Commons](http://commons.apache.org/) (tm) Math classes. 
 
-NOTICE: JP Math is not affiliated with, endorsed by or created(*) by [The Apache Software Foundation](http://www.apache.org). (*) A subset of test packages used have been copied verbatim from Apache Commons (tm) Math.
+NOTICE: JP Math is not affiliated with, endorsed by or created(1) by [The Apache Software Foundation](http://www.apache.org). (1) A subset of test packages used have been copied verbatim from Apache Commons (tm) Math.
